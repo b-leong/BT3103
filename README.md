@@ -2,4 +2,3 @@
 
 NUS Business Analytics course
 
-olivia branch README
