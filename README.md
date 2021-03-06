@@ -2,8 +2,8 @@
 
 NUS Business Analytics course
 
-<<<<<<< HEAD
-master branch README
-=======
 
->>>>>>> Olivia
+master branch README
+
+
+
