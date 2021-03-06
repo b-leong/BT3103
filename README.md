@@ -2,10 +2,3 @@
 
 NUS Business Analytics course
 
-<<<<<<< HEAD
-
-
-
-
-=======
->>>>>>> Olivia
