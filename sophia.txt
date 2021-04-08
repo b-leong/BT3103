@@ -1,1 +1,5 @@
 sophiacyh@github.com
+
+name: sophia chen
+
+intro: hello im a y2 business analytics student in NUS
